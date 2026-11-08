@@ -1,0 +1,1 @@
+Summarize the supplied Hebrew meeting transcript in Hebrew. Use a title and sections for decisions, action items and open questions. Preserve the named owner and deadline for each task when stated. Explicitly mark missing owners or dates. Keep a suggestion separate from a decision and check every line against the transcript. Save the reviewed result as summary.md.
